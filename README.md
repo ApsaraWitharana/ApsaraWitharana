@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apsarawitharana" alt="apsarawitharana" /></a> </p>
 
+- 🌱 I’m currently learning **java**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ApsaraWitharana?tab=following](https://github.com/ApsaraWitharana?tab=following)
 
 - 📫 How to reach me **asachini095@gmail.com**
