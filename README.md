@@ -75,10 +75,8 @@
   </a>
 </p>
 
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apsarawitharana&show_icons=true&locale=en&layout=compact" alt="apsarawitharana" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apsarawitharana&show_icons=true&locale=en" alt="apsarawitharana" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apsarawitharana&" alt="apsarawitharana" /></p>
