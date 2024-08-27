@@ -25,7 +25,7 @@
 <h2 align="left" > Languages-Frameworks-Tools </h2>
 <br>
 <div align="left" >
-    <img src="https://skillicons.dev/icons?i=java,mysql,idea,bootstrap,vscode,html,css,javascript,nodejs,spring,react,typescript,hibernate,mongodb,angular" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,idea,bootstrap,vscode,html,css,javascript,nodejs,spring,react,typescript,hibernate,mongodb,angular,python" />
     <img src="https://skillicons.dev/icons?i=github,git,maven,figma,linux" /><br>
 </div>
 
