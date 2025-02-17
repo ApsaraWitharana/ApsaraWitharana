@@ -12,10 +12,18 @@
 <br>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 **Currently Learning:** Java, Spring Boot, React & Python 
   
-- 👨‍💻 All of my projects are available at [https://github.com/ApsaraWitharana?tab=following](https://github.com/ApsaraWitharana?tab=following)
-
+- 🛠️ All of my projects are available at [https://github.com/ApsaraWitharana?tab=following](https://github.com/ApsaraWitharana?tab=following)
+  
+- 👨‍💻 **Passionate About:** Full-Stack Development, Problem-Solving & Open-Source
+  
+- 🚀 **Exploring:** Web Development, Cloud Technologies & AI
+  
+- 🤝 Always open to collaboration & learning new technologies!
+  
+- 📚 **IJSE - Institute of Software Engineering Student GDSE-68**
+  
 - 📫 How to reach me **asachini095@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
