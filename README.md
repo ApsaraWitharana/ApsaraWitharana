@@ -39,6 +39,13 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apsarawitharana&show_icons=true&locale=en&layout=compact" alt="apsarawitharana" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apsarawitharana&show_icons=true&locale=en" alt="apsarawitharana" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apsarawitharana&" alt="apsarawitharana" /></p>
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apsarawitharana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apsarawitharana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apsarawitharana&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
