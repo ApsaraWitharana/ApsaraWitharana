@@ -26,6 +26,32 @@
   
 - 📫 How to reach me **asachini095@gmail.com**
 
+## About Me ✍🏻✍🏻
+
+```swift
+// Define personal traits as variables
+let name = "Sachini Apsara";
+let role = "Software Engineer";
+let skills = ["Problem-Solving", "UI Design", "Coding"]; // Fixed the missing quotation mark
+let strengths = ["Innovative Ideas", "Collaborative Team Player"];
+let exploring = ["Web Development", "Cloud Technologies", "AI"];
+let education = "IJSE - Institute of Software Engineering Student GDSE-68";
+let collaborationMessage = "Always open to collaboration & learning new technologies!";
+
+// Function to introduce myself
+function introduce() {
+    console.log(`Hi, I'm ${name}, a ${role}.`);
+    console.log(`My core skills include: ${skills.join(", ")}.`);
+    console.log(`My strengths: ${strengths.join(", ")}.`);
+    console.log(`Exploring: ${exploring.join(", ")}.`); // Fixed: Added .join() for proper formatting
+    console.log(`Education: ${education}.`);
+    console.log(collaborationMessage);
+}
+
+// Output my introduction
+introduce();
+
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/sachini-apsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sachini-apsara" height="30" width="40" /></a>
